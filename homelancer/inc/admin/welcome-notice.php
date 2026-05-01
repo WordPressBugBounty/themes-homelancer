@@ -49,6 +49,7 @@ if ( ! function_exists( 'homelancer_welcome_notice' ) ) :
 						<div class="notice-text">
 							<p><?php echo __( 'Please install and activate all recommended plugins to access 50+ advanced blocks, pre-built starter demos, and the one-click demo importer. Launch your online store in minutes with just a few clicks! - Cozy Blocks, Cozy Essential Addons, Advanced Import', 'homelancer' ); ?></p>
 						</div>
+            <a href="#" id="install-activate-button" class="button admin-button info-button"><?php echo __('Getting start with one click', 'fotawp'); ?></a>
 						<a href="<?php echo admin_url(); ?>themes.php?page=about-homelancer" class="button admin-button info-button"><?php echo __( 'Explore HomeLancer', 'homelancer' ); ?></a>
 
 					</div>
