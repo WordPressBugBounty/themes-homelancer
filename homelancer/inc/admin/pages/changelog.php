@@ -1,7 +1,14 @@
 <div class="homelancer-page__changelog">
 	<h2><?php esc_html_e('Changelog', 'homelancer'); ?></h2>
+	<div class="version">
+		<h3><?php esc_html_e('Version 1.0.4', 'homelancer'); ?></h3>
+		<p class="date"><?php esc_html_e('Released: Jun 05, 2026', 'homelancer'); ?></p>
+		<ul class="changes">
+			<li><?php esc_html_e(' Tested up to 7.0', 'homelancer'); ?></li>
+		</ul>
+	</div>
 
-<div class="version">
+	<div class="version">
 		<h3><?php esc_html_e('Version 1.0.3', 'homelancer'); ?></h3>
 		<p class="date"><?php esc_html_e('Released: May 01, 2026', 'homelancer'); ?></p>
 		<ul class="changes">
