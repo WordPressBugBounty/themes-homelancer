@@ -112,8 +112,8 @@ $homelancer_images = array(
                 </div>
                 <!-- /wp:columns -->
 
-                <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"64px"},"padding":{"top":"20px"}},"border":{"top":{"color":"var:preset|color|border-color","width":"1px"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
-                <div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border-color);border-top-width:1px;margin-top:64px;padding-top:20px"><!-- wp:heading {"level":4,"fontSize":"medium"} -->
+                <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","margin":{"top":"64px"},"padding":{"top":"20px"}},"border":{"top":{"color":"var:preset|color|border-color","width":"1px"},"right":{"width":"0px","style":"none"},"bottom":{"width":"0px","style":"none"},"left":{"width":"0px","style":"none"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
+                <div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border-color);border-top-width:1px;border-right-style:none;border-right-width:0px;border-bottom-style:none;border-bottom-width:0px;border-left-style:none;border-left-width:0px;margin-top:64px;padding-top:20px"><!-- wp:heading {"level":4,"fontSize":"medium"} -->
                     <h4 class="wp-block-heading has-medium-font-size"><?php esc_html_e('Follow us on', 'homelancer') ?></h4>
                     <!-- /wp:heading -->
 
