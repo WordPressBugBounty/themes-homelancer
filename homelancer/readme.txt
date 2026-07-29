@@ -2,10 +2,10 @@
 
 Contributors: CozyThemes
 Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, e-commerce, full-site-editing, block-patterns, full-width-template, rtl-language-support, threaded-comments, translation-ready, block-styles, wide-blocks
-Requires at least: 5.9
+Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,10 @@ HomeLancer is a modern and elegant Full Site Editing WordPress theme crafted for
 "HomeLancer" includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
-= 1.0.4 - Jun 19, 2026 =
+= 1.0.6 - Jun 19, 2026 =
+* Minor issue json file fixed
+
+= 1.0.5 - Jun 19, 2026 =
 * Minor border issue fixed for patterns
 
 = 1.0.4 - Jun 05, 2026 =
