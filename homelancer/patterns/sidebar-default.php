@@ -95,7 +95,7 @@ $homelancer_images = array(
         </div>
         <!-- /wp:group -->
 
-        <!-- wp:categories {"showHierarchy":true,"showPostCounts":true,"className":"is-style-fotawp-categories-bullet-hide-style is-style-storemate-categories-bullet-hide-style is-style-homelancer-categories-bullet-hide-style","style":{"typography":{"lineHeight":"2"}}} /-->
+        <!-- wp:categories {"showHierarchy":true,"showPostCounts":true,"className":"is-style-homelancer-categories-bullet-hide-style is-style-storemate-categories-bullet-hide-style is-style-homelancer-categories-bullet-hide-style","style":{"typography":{"lineHeight":"2"}}} /-->
     </div>
     <!-- /wp:group -->
 </div>
