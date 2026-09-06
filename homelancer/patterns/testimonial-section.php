@@ -11,7 +11,6 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/team_1.jpg',
     $homelancer_url . 'assets/images/testimonial_1.jpg',
     $homelancer_url . 'assets/images/team_23.jpg',
-
 );
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"100%"}} -->

@@ -12,8 +12,8 @@
         <h1 class="wp-block-heading has-text-align-center has-heading-color-color has-text-color has-link-color" style="font-style:normal;font-weight:400"><?php esc_html_e('FAQ', 'homelancer') ?></h1>
         <!-- /wp:heading -->
 
-        <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground-alt"}}}},"textColor":"foreground-alt"} -->
-        <p class="has-text-align-center has-foreground-alt-color has-text-color has-link-color"><?php esc_html_e('Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.', 'homelancer') ?></p>
+        <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
+        <p class="has-text-align-center has-foreground-color has-text-color has-link-color"><?php esc_html_e('Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.', 'homelancer') ?></p>
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->

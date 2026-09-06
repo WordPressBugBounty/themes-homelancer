@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: Latest News and Articles 2
+ * Title: Latest posts 2
  * Slug: homelancer/latest-post-2
  * Categories: homelancer-post
  */
@@ -38,7 +38,7 @@
 
                 <!-- wp:post-title {"level":3,"isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.3"},"elements":{"link":{"color":{"text":"var:preset|color|heading-color"},":hover":{"color":{"text":"var:preset|color|primary"}}}},"spacing":{"margin":{"top":"0px"}}},"fontSize":"large"} /-->
 
-                <!-- wp:post-excerpt {"excerptLength":13,"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground-alt"}}},"spacing":{"margin":{"top":"10px","bottom":"10px"}}},"textColor":"foreground-alt"} /-->
+                <!-- wp:post-excerpt {"excerptLength":13,"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}},"spacing":{"margin":{"top":"10px","bottom":"10px"}}},"textColor":"foreground"} /-->
             </div>
             <!-- /wp:group -->
         </div>

@@ -3,15 +3,15 @@
 Contributors: CozyThemes
 Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, e-commerce, full-site-editing, block-patterns, full-width-template, rtl-language-support, threaded-comments, translation-ready, block-styles, wide-blocks
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.7
+Stable tag: 1.1.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-HomeLancer is a modern and elegant Full Site Editing WordPress theme crafted for interior designers, home decorators, architecture studios, service provider agencies, and store owners in the home decor niche. It offers 100+ pre-built design sections, 4 ready-to-use starter templates, and a one-click demo import to help you build a stunning website effortlessly. With complete customization options, you can easily tailor every part of your site—from fully customizable headers and footers to pre-designed inner pages like About, Services, Portfolio, Project Details, and Contact Us—to match your brand perfectly. HomeLancer is fully responsive, SEO-friendly, and compatible with popular plugins like WooCommerce, Yoast SEO, Contact Form 7, and more, making it the perfect all-in-one solution for building a professional and stylish online presence. Discover all features and live demos at https://cozythemes.com/HomeLancer/
+HomeLancer is a modern Full Site Editing (FSE) WordPress theme for home services, contractors, local businesses, small businesses, and service professionals. Built with the WordPress Site Editor and Gutenberg, it makes it easy to create professional, responsive, and conversion-focused websites without coding. Whether you need a home services WordPress theme, contractor WordPress theme, local business WordPress theme, or service business WordPress theme, HomeLancer provides a flexible foundation for building a professional online presence. It is ideal for plumbers, HVAC companies, electricians, handymen, cleaning services, roofers, landscapers, painters, pest control companies, renovation and remodeling businesses, home repair professionals, and maintenance services. HomeLancer also works as a complete collection of home services website templates, local business website templates, contractor website templates, and service business website templates. Create a handyman website, plumbing website, HVAC website, electrician website, cleaning service website, roofing website, landscaping website, painting website, or home repair website with professionally designed layouts that can be adapted to your brand. With 50+ ready-to-use block patterns, HomeLancer helps you build service pages, project showcases, testimonials, pricing sections, team pages, FAQs, contact sections, portfolios, calls-to-action, and lead-generation layouts faster. Every section is designed to help service businesses showcase their expertise, build trust, and turn website visitors into customers. Full Site Editing gives you complete control over headers, footers, templates, pages, layouts, colors, typography, and global styles directly from the WordPress Site Editor. No coding is required. HomeLancer is WooCommerce-ready and works with popular WordPress plugins, making it suitable for businesses that want to promote services, generate leads, showcase projects, or sell products online. From local contractors and home service companies to freelancers, agencies, and small businesses building client websites, HomeLancer is a flexible WordPress solution for creating modern, professional, and high-converting service websites. Explore HomeLancer features, demos, patterns, and more at https://cozythemes.com/homelancer/
 
 == Installation ==
 
@@ -26,6 +26,15 @@ HomeLancer is a modern and elegant Full Site Editing WordPress theme crafted for
 "HomeLancer" includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.1.2 - September 06, 2026 =
+* Updated screenshots to reflect the new design.
+
+= 1.1.1 - September 06, 2026 =
+* New Homepage templated added.
+* New Patterns Added 
+* Overall patterns and layout improvement
+* Tested up to 7.1
+
 = 1.0.7 - Aug 14, 2026 =
 * Update: Admin dashboard UI
 
@@ -63,17 +72,38 @@ License: GPL v2 or later
 Image 1 for banner in screenshot, https://pxhere.com/
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://pxhere.com/en/photo/1724484
+
+Image 2 for banner in screenshot, https://pxhere.com/
+License: CC0 1.0 Universal (CC0 1.0)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://pxhere.com/en/photo/1709220
+
+Image 3 for banner in screenshot, https://pxhere.com/
+License: CC0 1.0 Universal (CC0 1.0)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://pxhere.com/en/photo/1708350
+
+Image 1 for banner 2 in screenshot, https://pxhere.com/
+License: CC0 1.0 Universal (CC0 1.0)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://pxhere.com/en/photo/1596167
 
 Image for About Us Section,  https://pxhere.com/
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://pxhere.com/en/photo/1622679
+Source: https://pxhere.com/en/photo/1718964
+Source: https://pxhere.com/en/photo/1712528
+Source: https://pxhere.com/en/photo/1708348 
 
 Image  1 for Portfolio Section,  https://pxhere.com/
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://pxhere.com/en/photo/645141
+Source: https://pxhere.com/en/photo/1709222
+Source: https://pxhere.com/en/photo/1707692
+Source: https://pxhere.com/en/photo/1707694
 
 Image  2 for Portfolio Section,  https://pxhere.com/
 License: CC0 1.0 Universal (CC0 1.0)

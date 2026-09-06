@@ -256,6 +256,20 @@ if (function_exists('register_block_style')) {
             )
         );
         register_block_style(
+            'core/button',
+            array(
+                'name'  => 'button-with-icon-call',
+                'label' => __('Call Icon', 'homelancer')
+            )
+        );
+        register_block_style(
+            'core/button',
+            array(
+                'name'  => 'button-with-arrow-text',
+                'label' => __('Arrow Transparent Background', 'homelancer')
+            )
+        );
+        register_block_style(
             'core/buttons',
             array(
                 'name'  => 'button-transofom-on-hover',
@@ -339,6 +353,13 @@ if (function_exists('register_block_style')) {
             array(
                 'name'  => 'list-style-check-circle-black',
                 'label' => __('Check Circle Black', 'homelancer')
+            )
+        );
+        register_block_style(
+            'core/list',
+            array(
+                'name'  => 'list-style-check-simple',
+                'label' => __('Check Secondary', 'homelancer')
             )
         );
 

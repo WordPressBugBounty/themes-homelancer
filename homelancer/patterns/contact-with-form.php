@@ -20,8 +20,8 @@ $homelancer_images = array(
             <h1 class="wp-block-heading has-black-color-color has-text-color has-link-color has-xxx-large-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Feel Free to Contact Us Anytime — We’re Always Here to Support You', 'homelancer') ?></h1>
             <!-- /wp:heading -->
 
-            <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.7,"fontSize":"18px"},"elements":{"link":{"color":{"text":"var:preset|color|foreground-alt"}}}},"textColor":"foreground-alt"} -->
-            <p class="has-foreground-alt-color has-text-color has-link-color" style="font-size:18px;line-height:1.7"><?php esc_html_e('Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.', 'homelancer') ?></p>
+            <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.7,"fontSize":"18px"},"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
+            <p class="has-foreground-color has-text-color has-link-color" style="font-size:18px;line-height:1.7"><?php esc_html_e('Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.', 'homelancer') ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:group -->
