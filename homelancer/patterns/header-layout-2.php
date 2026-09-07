@@ -92,7 +92,7 @@ $homelancer_images = array(
                 </div>
                 <!-- /wp:group -->
 
-                <!-- wp:navigation {"ref":8408,"textColor":"heading-color","overlayBackgroundColor":"secondary-bg","overlayTextColor":"heading-color","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account","woocommerce/mini-cart"]},"className":"homelancer-navigation","style":{"typography":{"textTransform":"none","fontStyle":"normal","fontWeight":"400","lineHeight":"2","fontSize":"18px"},"spacing":{"blockGap":"24px"}},"layout":{"type":"flex","justifyContent":"center"}} /-->
+                <!-- wp:navigation {"textColor":"heading-color","overlayBackgroundColor":"secondary-bg","overlayTextColor":"heading-color","metadata":{"ignoredHookedBlocks":["woocommerce/customer-account","woocommerce/mini-cart"]},"className":"homelancer-navigation","style":{"typography":{"textTransform":"none","fontStyle":"normal","fontWeight":"400","lineHeight":"2","fontSize":"18px"},"spacing":{"blockGap":"24px"}},"layout":{"type":"flex","justifyContent":"center"}} /-->
             </div>
             <!-- /wp:group -->
 
