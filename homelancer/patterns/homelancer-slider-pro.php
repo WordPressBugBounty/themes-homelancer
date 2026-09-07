@@ -7,7 +7,7 @@
  */
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
-    $homelancer_url . 'assets/images/badge-check.png',
+    $homelancer_url . 'assets/images/rating_star.png',
     $homelancer_url . 'assets/images/hero-image-2.jpg',
     $homelancer_url . 'assets/images/hero-image.jpg',
     $homelancer_url . 'assets/images/hero-image-3.jpg',
