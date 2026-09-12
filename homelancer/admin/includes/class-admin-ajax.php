@@ -31,7 +31,7 @@ class HomeLancer_Ajax {
 	public function dismiss_welcome_notice() {
 		check_admin_referer( 'homelancer_welcome_nonce', 'nonce' );
 
-		update_option( 'saaslauncher_dismissed_custom_notice', 1 );
+		update_option( 'homelancer_dismissed_custom_notice', 1 );
 
 		wp_send_json_success();
 	}
@@ -74,7 +74,7 @@ class HomeLancer_Ajax {
 			}
 
 			if ( $this->is_plugin_installed( $plugin_slug . '/' . $plugin_file ) ) {
-				activate_plugin( $plugin_slug . '/' . $plugin_file );
+				activate_plugin( $plugin_slug . '/' . $plugin_file, '', false, true );
 				continue;
 			}
 
@@ -95,7 +95,7 @@ class HomeLancer_Ajax {
 
 			if ( $install ) {
 				// Activate the plugin.
-				$activate = activate_plugin( $plugin_slug . '/' . $plugin_file );
+				$activate = activate_plugin( $plugin_slug . '/' . $plugin_file, '', false, true );
 
 				// Check if activation is successful.
 				if ( is_wp_error( $activate ) ) {

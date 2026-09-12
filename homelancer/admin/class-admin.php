@@ -5,6 +5,7 @@ if (! defined('ABSPATH')) {
 
 class HomeLancer_Admin
 {
+
 	private static $instance = null;
 
 	private static $dir = HOMELANCER_DIR . 'admin/';
@@ -42,14 +43,14 @@ class HomeLancer_Admin
 			return;
 		}
 
-		$saaslauncher_notice_current_screen = get_current_screen();
+		$homelancer_current_screen = get_current_screen();
 
 		$allowed_pages = array(
 			'dashboard',
 			'themes',
 		);
 
-		if ((isset($_GET['page']) && ! empty($_GET['page']) && 'about-homelancer' === $_GET['page']) || in_array($saaslauncher_notice_current_screen->id, $allowed_pages, true)) {
+		if ((isset($_GET['page']) && ! empty($_GET['page']) && 'about-homelancer' === $_GET['page']) || in_array($homelancer_current_screen->id, $allowed_pages, true)) {
 			wp_enqueue_style('homelancer-admin-style', self::$url . 'css/admin-style.css', array(), HOMELANCER_VERSION, 'all');
 
 			wp_enqueue_script('homelancer-admin-scripts', self::$url . 'js/admin-scripts.js', array('jquery'), HOMELANCER_VERSION, true);
@@ -69,7 +70,7 @@ class HomeLancer_Admin
 	{
 		$current_screen  = get_current_screen();
 		$allowed_screens = array('dashboard', 'themes');
-		if (! in_array($current_screen->id, $allowed_screens, true) || is_network_admin() || ! current_user_can('manage_options') || get_option('saaslauncher_dismissed_custom_notice')) {
+		if (! in_array($current_screen->id, $allowed_screens, true) || is_network_admin() || ! current_user_can('manage_options') || get_option('homelancer_dismissed_custom_notice')) {
 			return;
 		}
 ?>
@@ -77,14 +78,15 @@ class HomeLancer_Admin
 			<div class="content-holder">
 				<div class="notices">
 					<figure class="brand-logo">
-						<img width="44" height="44" src="<?php echo esc_url(self::$url . 'images/cozy-addons-icon.png'); ?>" alt="Cozy Blocks logo" />
+						<img width="44" height="44" src="<?php echo esc_url(self::$url . 'images/homelancer.png'); ?>" alt="HomeLancer logo" />
 					</figure>
 
 					<div>
-						<p class="highlighted-text"><?php esc_html_e('Welcome to HomeLancer! 🎉', 'homelancer'); ?></p>
-						<h2 class="notice-heading"><?php esc_html_e('Supercharge Your Website with Cozy Blocks', 'homelancer'); ?></h2>
+						<h2 class="notice-heading"><?php esc_html_e('Welcome to HomeLancer! Build Your Professional Home Services Website with Ease  🎉
+', 'homelancer'); ?></h2>
 
-						<p><?php esc_html_e('Build your Home Services website faster with Cozy Blocks—powerful blocks, ready-made sections, and starter templates help you create a professional, trustworthy website for your services without starting from scratch.', 'homelancer'); ?></p>
+						<p><?php esc_html_e('Install and activate Cozy Blocks to unlock advanced customization, powerful custom blocks, and a library of ready-made templates and patterns—all designed to help you build and customize your home services website faster and easier.
+', 'homelancer'); ?></p>
 
 						<div class="notice-buttons">
 							<?php
@@ -100,7 +102,7 @@ class HomeLancer_Admin
 							} else {
 							?>
 								<button class="cozy-addons-install notice-button has-spinner">
-									<a href="#"><?php esc_html_e('Install Cozy Blocks →', 'homelancer'); ?></a>
+									<a href="#"><?php esc_html_e('Install & Activate Cozy Blocks →', 'homelancer'); ?></a>
 									<span class="spinner homelancer-display-none" id="homelancer-admin-spinner"></span>
 								</button>
 							<?php

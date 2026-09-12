@@ -5,7 +5,7 @@ Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-me
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,9 @@ HomeLancer is a modern Full Site Editing (FSE) WordPress theme for home services
 "HomeLancer" includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.1.5 - September 11, 2026 =
+* Refined Global Color Palette
+
 = 1.1.4 - September 07, 2026 =
 * Minro image url fixed.
 
