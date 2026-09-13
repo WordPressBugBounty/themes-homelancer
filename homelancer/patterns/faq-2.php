@@ -6,7 +6,7 @@
  * Categories: homelancer-faq
  */
 ?>
-<!-- wp:group {"metadata":{"categories":["homelancer-faq"],"name":"FAQ Section"},"align":"full","style":{"spacing":{"padding":{"top":"7rem","bottom":"7rem","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"}},"backgroundColor":"background","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"categories":["homelancer-faq"],"name":"FAQ Section"},"align":"full","style":{"spacing":{"padding":{"top":"7rem","bottom":"7rem","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"}},"backgroundColor":"background","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:7rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:7rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"100px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"width":"35%"} -->
         <div class="wp-block-column" style="flex-basis:35%"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"},"position":{"type":"sticky","top":"0px"}},"layout":{"type":"constrained","contentSize":"640px","justifyContent":"left"}} -->

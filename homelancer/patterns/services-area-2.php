@@ -11,7 +11,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/map-image.jpg',
 );
 ?>
-<!-- wp:group {"metadata":{"patternName":"homelancer/services-area-2","name":"Services Area 2","categories":["homelancer-service"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"patternName":"homelancer/services-area-2","name":"Services Area 2","categories":["homelancer-service"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"80px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"width":"45%"} -->
         <div class="wp-block-column" style="flex-basis:45%"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","contentSize":"640px","justifyContent":"left"}} -->

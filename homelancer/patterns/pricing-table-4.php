@@ -6,7 +6,7 @@
  * Categories: homelancer-pricing
  */
 ?>
-<!-- wp:group {"align":"full","metadata":{"categories":["homelancer-pricing"],"patternName":"homelancer/pricing-table-4","name":"Pricing Table 4"},"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"align":"full","metadata":{"categories":["homelancer-pricing"],"patternName":"homelancer/pricing-table-4","name":"Pricing Table 4"},"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group alignfull has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","contentSize":"780px","justifyContent":"left"}} -->
     <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":5,"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"small"} -->
         <h5 class="wp-block-heading has-text-align-left has-small-font-size" style="text-transform:uppercase"><?php esc_html_e('Pricing &amp; Plan', 'homelancer') ?></h5>

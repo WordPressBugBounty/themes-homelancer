@@ -106,6 +106,13 @@ if (function_exists('register_block_style')) {
             )
         );
         register_block_style(
+            'core/group',
+            array(
+                'name'  => 'homelancer-overlap-style',
+                'label' => __('Overlap Style', 'homelancer')
+            )
+        );
+        register_block_style(
             'core/image',
             array(
                 'name'  => 'homelancer-boxshadow',

@@ -11,10 +11,10 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/badge-check.png',
 );
 ?>
-<!-- wp:group {"metadata":{"name":"Why Choose Us","categories":["homelancer-about"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
-<div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"80px"}}}} -->
-    <div class="wp-block-columns"><!-- wp:column {"width":"45%"} -->
-        <div class="wp-block-column" style="flex-basis:45%"><!-- wp:cover {"url":"<?php echo esc_url($homelancer_images[0]) ?>","id":9719,"dimRatio":0,"customOverlayColor":"#9a918b","isUserOverlayColor":false,"focalPoint":{"x":0.5,"y":0},"minHeight":640,"contentPosition":"bottom right","isDark":false,"sizeSlug":"full","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Why Choose Us","categories":["homelancer-about"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"64px"}}}} -->
+    <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+        <div class="wp-block-column" style="flex-basis:50%"><!-- wp:cover {"url":"<?php echo esc_url($homelancer_images[0]) ?>","id":9719,"dimRatio":0,"customOverlayColor":"#9a918b","isUserOverlayColor":false,"focalPoint":{"x":0.5,"y":0},"minHeight":640,"contentPosition":"bottom right","isDark":false,"sizeSlug":"full","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
             <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-right" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;min-height:640px"><img class="wp-block-cover__image-background wp-image-9719 size-full" alt="" src="<?php echo esc_url($homelancer_images[0]) ?>" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#9a918b"></span>
                 <div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained","contentSize":"200px"}} -->
                     <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"24px","bottom":"28px","left":"28px","right":"28px"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
@@ -23,7 +23,7 @@ $homelancer_images = array(
                             <!-- /wp:heading -->
 
                             <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|light-color"}}}},"textColor":"light-color"} -->
-                            <p class="has-light-color-color has-text-color has-link-color"><?php esc_html_e('Repeat & Referred Customers', 'homelancer'); ?></p>
+                            <p class="has-light-color-color has-text-color has-link-color"><?php esc_html_e('Repeat &amp; Referred Customers', 'homelancer'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->
@@ -82,7 +82,7 @@ $homelancer_images = array(
 
                             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","margin":{"top":"24px"}}},"layout":{"type":"constrained"}} -->
                             <div class="wp-block-group" style="margin-top:24px"><!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600"}}} -->
-                                <h5 class="wp-block-heading" style="font-size:18px;font-style:normal;font-weight:600"><?php esc_html_e('Fast & Reliable', 'homelancer'); ?></h5>
+                                <h5 class="wp-block-heading" style="font-size:18px;font-style:normal;font-weight:600"><?php esc_html_e('Fast &amp; Reliable', 'homelancer'); ?></h5>
                                 <!-- /wp:heading -->
 
                                 <!-- wp:paragraph -->

@@ -3,7 +3,7 @@
 /**
  * Title: Why Choose Us Pro
  * Slug: homelancer/homelancer-why-us-pro
- * Categories: ct-homelancer-pro
+ * Categories: ct-homelancer-patterns-pro
  */
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
@@ -11,7 +11,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/badge-check.png',
 );
 ?>
-<!-- wp:group {"metadata":{"name":"Why Choose Us","categories":["ct-homelancer-pro"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"name":"Why Choose Us","categories":["ct-homelancer-patterns-pro"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"80px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"width":"45%"} -->
         <div class="wp-block-column" style="flex-basis:45%"><!-- wp:cover {"url":"<?php echo esc_url($homelancer_images[0]) ?>","id":9719,"dimRatio":0,"customOverlayColor":"#9a918b","isUserOverlayColor":false,"focalPoint":{"x":0.5,"y":0},"minHeight":640,"contentPosition":"bottom right","isDark":false,"sizeSlug":"full","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->

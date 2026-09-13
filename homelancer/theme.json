@@ -183,7 +183,7 @@
       "width": true
     },
     "layout": {
-      "contentSize": "980px",
+      "contentSize": "1200px",
       "wideSize": "1960"
     },
     "typography": {
@@ -257,14 +257,18 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/albert_sans/AlbertSans-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/albert_sans/AlbertSans-VariableFont_wght.ttf"
+              ]
             },
             {
               "fontFamily": "Albert Sans",
               "fontStretch": "normal",
               "fontStyle": "italic",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/albert_sans/AlbertSans-Italic-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/albert_sans/AlbertSans-Italic-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Albert Sans\", sans-serif",
@@ -278,7 +282,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/bricolage_grotesque/BricolageGrotesque-VariableFont.woff2"]
+              "src": [
+                "file:./assets/fonts/bricolage_grotesque/BricolageGrotesque-VariableFont.woff2"
+              ]
             }
           ],
           "fontFamily": "\"Bricolage Grotesque\", sans-serif",
@@ -292,14 +298,18 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/dm_sans/DMSans-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/dm_sans/DMSans-VariableFont_wght.ttf"
+              ]
             },
             {
               "fontFamily": "DM Sans",
               "fontStretch": "normal",
               "fontStyle": "italic",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/dm_sans/DMSans-Italic-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/dm_sans/DMSans-Italic-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"DM Sans\", sans-serif",
@@ -313,7 +323,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "400",
-              "src": ["file:./assets/fonts/dm_serif_display/DMSerifDisplay-Regular.woff2"]
+              "src": [
+                "file:./assets/fonts/dm_serif_display/DMSerifDisplay-Regular.woff2"
+              ]
             }
           ],
           "fontFamily": "\"DM Serif Display\", sans-serif",
@@ -327,7 +339,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/funnel_display/FunnelDisplay-VariableFont_wght.woff2"]
+              "src": [
+                "file:./assets/fonts/funnel_display/FunnelDisplay-VariableFont_wght.woff2"
+              ]
             }
           ],
           "fontFamily": "\"Funnel Display\", sans-serif",
@@ -341,14 +355,18 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/funnel_sans/FunnelSans-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/funnel_sans/FunnelSans-VariableFont_wght.ttf"
+              ]
             },
             {
               "fontFamily": "Funnel Sans",
               "fontStretch": "normal",
               "fontStyle": "italic",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/funnel_sans/FunnelSans-Italic-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/funnel_sans/FunnelSans-Italic-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Funnel Sans\", sans-serif",
@@ -362,7 +380,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/host_grotesk/HostGrotesk-VariableFont.woff2"]
+              "src": [
+                "file:./assets/fonts/host_grotesk/HostGrotesk-VariableFont.woff2"
+              ]
             }
           ],
           "fontFamily": "\"Host Grotesk\", sans-serif",
@@ -391,14 +411,18 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/plus_jakarta_sans/PlusJakartaSans-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/plus_jakarta_sans/PlusJakartaSans-VariableFont_wght.ttf"
+              ]
             },
             {
               "fontFamily": "Plus Jakarta Sans",
               "fontStretch": "normal",
               "fontStyle": "italic",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/plus_jakarta_sans/PlusJakartaSans-Italic-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/plus_jakarta_sans/PlusJakartaSans-Italic-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Plus Jakarta Sans\", sans-serif",
@@ -426,7 +450,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/quicksand/Quicksand-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Quicksand\", sans-serif",
@@ -454,7 +480,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/manrope/Manrope-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/manrope/Manrope-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Manrope\", sans-serif",
@@ -468,7 +496,9 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/mona_sans/MonaSans-VariableFont_wdth.ttf"]
+              "src": [
+                "file:./assets/fonts/mona_sans/MonaSans-VariableFont_wdth.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Mona Sans\", sans-serif",
@@ -482,14 +512,18 @@
               "fontStretch": "normal",
               "fontStyle": "normal",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/public-sans/PublicSans-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/public-sans/PublicSans-VariableFont_wght.ttf"
+              ]
             },
             {
               "fontFamily": "Public Sans",
               "fontStretch": "normal",
               "fontStyle": "italic",
               "fontWeight": "300 400 500 600 700 900",
-              "src": ["file:./assets/fonts/public-sans/PublicSans-Italic-VariableFont_wght.ttf"]
+              "src": [
+                "file:./assets/fonts/public-sans/PublicSans-Italic-VariableFont_wght.ttf"
+              ]
             }
           ],
           "fontFamily": "\"Public Sans\", sans-serif",
@@ -554,7 +588,7 @@
       "h1": {
         "typography": {
           "fontSize": "var(--wp--preset--font-size--xx-large)",
-          "fontWeight": "500",
+          "fontWeight": "600",
           "lineHeight": "var(--wp--preset--line-height--normal)"
         },
         "spacing": {
@@ -566,7 +600,7 @@
       "h2": {
         "typography": {
           "fontSize": "var(--wp--preset--font-size--xx-large)",
-          "fontWeight": "500",
+          "fontWeight": "600",
           "lineHeight": "var(--wp--preset--line-height--normal)"
         },
         "spacing": {

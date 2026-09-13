@@ -3,7 +3,7 @@
 /**
  * Title: Trust badge pro
  * Slug: homelancer/homelancer-trust-badge-pro
- * Categories: ct-homelancer-pro
+ * Categories: ct-homelancer-patterns-pro
  */
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
@@ -15,7 +15,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/icon_trust_6.png',
 );
 ?>
-<!-- wp:group {"metadata":{"name":"Trust badge pro","categories":["ct-homelancer-pro"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"80px","bottom":"80px"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"name":"Trust badge pro","categories":["ct-homelancer-patterns-pro"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"80px","bottom":"80px"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:80px;padding-right:var(--wp--preset--spacing--40);padding-bottom:80px;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"20px"},"margin":{"top":"0","bottom":"0"}}}} -->
     <div class="wp-block-columns" style="margin-top:0;margin-bottom:0"><!-- wp:column -->
         <div class="wp-block-column"><!-- wp:group {"className":"is-style-orakus-boxshadow-hover is-style-default","style":{"border":{"radius":"24px"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->

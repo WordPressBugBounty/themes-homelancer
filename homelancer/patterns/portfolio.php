@@ -14,7 +14,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/project_5.jpg',
 );
 ?>
-<!-- wp:group {"metadata":{"name":"Our Projects","categories":["homelancer-service"]},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"name":"Our Projects","categories":["homelancer-service"]},"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"8rem","bottom":"8rem"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"verticalAlignment":"bottom","style":{"spacing":{"blockGap":{"left":"84px"},"margin":{"top":"0","bottom":"64px"}}}} -->
     <div class="wp-block-columns are-vertically-aligned-bottom" style="margin-top:0;margin-bottom:64px"><!-- wp:column {"verticalAlignment":"bottom","width":"60%"} -->
         <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:60%"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained","contentSize":"460px","justifyContent":"left"}} -->

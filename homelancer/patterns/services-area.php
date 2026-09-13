@@ -10,7 +10,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/image_image.jpg',
 );
 ?>
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"84px","bottom":"84px"}}},"layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"84px","bottom":"84px"}}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:84px;padding-right:var(--wp--preset--spacing--40);padding-bottom:84px;padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"48px"}}},"layout":{"type":"constrained","contentSize":"680px"}} -->
     <div class="wp-block-group" style="margin-bottom:48px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"54px","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}}} -->
         <h1 class="wp-block-heading has-text-align-center" style="font-size:54px;font-style:normal;font-weight:600;line-height:1.3"><?php esc_html_e('Services Areas', 'homelancer') ?></h1>

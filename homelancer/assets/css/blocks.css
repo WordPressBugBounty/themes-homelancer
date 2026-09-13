@@ -378,7 +378,7 @@ figure.wp-block-image.homelancer-service-icon {
 }
 .wp-block-button.is-style-button-with-icon-call
   a.wp-block-button__link.has-background {
-  padding-left: 48px !important;
+  padding-left: 60px !important;
 }
 .wp-block-button.is-style-button-with-arrow-icon a.wp-element-button:after,
 .wp-block-button.is-style-button-with-uparrow-icon a.wp-element-button:after,
@@ -459,7 +459,7 @@ figure.wp-block-image.homelancer-service-icon {
   width: 30px;
   height: 20px;
   right: auto;
-  left: 0;
+  left: 10px;
   margin-top: -10px;
 }
 .wp-block-button.is-style-button-with-icon-call
@@ -891,4 +891,7 @@ nav.is-style-homelancer-navigation-enable-menu-description.wp-block-navigation
 }
 details.wp-block-details.is-style-homelancer-detail-round-style {
   border-radius: 10px;
+}
+.wp-block-group.is-style-homelancer-overlap-style {
+  margin-top: -300px !important;
 }

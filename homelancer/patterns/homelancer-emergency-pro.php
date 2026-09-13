@@ -3,7 +3,7 @@
 /**
  * Title: Emergency Service pro
  * Slug: homelancer/homelancer-emergency-pro
- * Categories: homelancer-pro
+ * Categories: ct-homelancer-patterns-pro
  */
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
@@ -11,7 +11,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/featured_emergency.jpg',
 );
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"8rem","bottom":"8rem","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"8rem","bottom":"8rem","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-primary-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:8rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:8rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"80px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"width":"45%"} -->
         <div class="wp-block-column" style="flex-basis:45%"><!-- wp:image {"id":10109,"sizeSlug":"full","linkDestination":"none"} -->

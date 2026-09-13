@@ -6,7 +6,7 @@
  * Categories: homelancer-counter, homelancer-about
  */
 ?>
-<!-- wp:group {"metadata":{"name":"Trust and Proof","categories":["homelancer-about","homelancer-service"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"4rem","bottom":"4rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1260px"}} -->
+<!-- wp:group {"metadata":{"name":"Trust and Proof","categories":["homelancer-about","homelancer-service"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"4rem","bottom":"4rem"}}},"backgroundColor":"background-alt","layout":{"type":"constrained","contentSize":"1200px"}} -->
 <div class="wp-block-group has-background-alt-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:4rem;padding-right:var(--wp--preset--spacing--40);padding-bottom:4rem;padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"28px"},"margin":{"top":"0","bottom":"0"}}}} -->
     <div class="wp-block-columns" style="margin-top:0;margin-bottom:0"><!-- wp:column -->
         <div class="wp-block-column"><!-- wp:group {"className":"is-style-orakus-boxshadow-hover is-style-default","style":{"border":{"radius":"24px"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
