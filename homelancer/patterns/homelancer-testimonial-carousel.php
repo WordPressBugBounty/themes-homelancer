@@ -10,7 +10,7 @@ $homelancer_images = array(
     $homelancer_url . 'assets/images/rating_star.png',
     $homelancer_url . 'assets/images/testimonial_1.jpg',
     $homelancer_url . 'assets/images/team_2.jpg',
-    $homelancer_url . 'assets/images/testimonial_4.jpg',
+    $homelancer_url . 'assets/images/testimonial_3.jpg',
     $homelancer_url . 'assets/images/team_1.jpg',
 );
 ?>

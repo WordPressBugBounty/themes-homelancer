@@ -8,7 +8,7 @@
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
     $homelancer_url . 'assets/images/rating_star.png',
-    $homelancer_url . 'assets/images/p5.jpg',
+    $homelancer_url . 'assets/images/testmonial-hero.jpg',
 );
 ?>
 <!-- wp:group {"layout":{"type":"constrained"}} -->

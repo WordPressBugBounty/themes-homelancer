@@ -198,7 +198,7 @@ if (! defined('ABSPATH')) {
 						<div class="homelancer-spacer sm"></div>
 
 						<button class="btn btn-secondary is-full-width">
-							<a href="https://cozythemes.com/pricing-and-plans/#free-vs-pro" target="_blank" rel="noopener nofollow">
+							<a href="https://cozythemes.com/homelancer/#homelancer-free-vs-pro" target="_blank" rel="noopener nofollow">
 								<?php esc_html_e('Check Out the Free vs Pro Comparison →', 'homelancer'); ?>
 							</a>
 						</button>

@@ -5,7 +5,7 @@ Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-me
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.1.6
+Stable tag: 1.1.8
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,12 @@ HomeLancer is a modern Full Site Editing (FSE) WordPress theme for home services
 "HomeLancer" includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.1.8 - September 14, 2026 =
+* Minor fixed: dashboard theme link url fixed
+
+= 1.1.7 - September 14, 2026 =
+* Minor fixed: media url for patterns
+
 = 1.1.6 - September 13, 2026 =
 * Minor improvement patterns
 * Added: page templates for pro version
@@ -35,42 +41,6 @@ HomeLancer is a modern Full Site Editing (FSE) WordPress theme for home services
 
 = 1.1.4 - September 07, 2026 =
 * Minro image url fixed.
-
-= 1.1.3 - September 07, 2026 =
-* Navigation display minor issue fixed
-
-= 1.1.2 - September 06, 2026 =
-* Updated screenshots to reflect the new design.
-
-= 1.1.1 - September 06, 2026 =
-* New Homepage templated added.
-* New Patterns Added 
-* Overall patterns and layout improvement
-* Tested up to 7.1
-
-= 1.0.7 - Aug 14, 2026 =
-* Update: Admin dashboard UI
-
-= 1.0.6 - Jun 19, 2026 =
-* Minor issue json file fixed
-
-= 1.0.5 - Jun 19, 2026 =
-* Minor border issue fixed for patterns
-
-= 1.0.4 - Jun 05, 2026 =
-* Tested up to 7.0
-
-= 1.0.3 - May 01, 2026 =
-* Tested up to 6.9
-
-= 1.0.2 - October 16, 2025 =
-* Fix: User permission check in AJAX plugin installation and activation.
-
-= 1.0.1 - July 29, 2025 =
-* Initial release
-
-= 1.0.0 - July 27, 2025 =
-* Initial release
 
 ==Copyright==
 "HomeLancer" WordPress Theme, Copyright 2025 CozyThemes

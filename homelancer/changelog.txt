@@ -1,3 +1,9 @@
+= 1.1.8 - September 14, 2026 =
+* Minor fixed: dashboard theme link url fixed
+
+= 1.1.7 - September 14, 2026 =
+* Minor fixed: media url for patterns
+
 = 1.1.6 - September 13, 2026 =
 * Minor improvement patterns
 * Added: page templates for pro version

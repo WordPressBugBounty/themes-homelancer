@@ -7,7 +7,7 @@
  */
 $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
-    $homelancer_url . 'assets/images/p5.jpg',
+    $homelancer_url . 'assets/images/contact-hero.jpg',
 );
 ?>
 <!-- wp:group {"metadata":{"name":"PRO: Contact Section with Form","description":"Contact Section","categories":["homelancer-contact"]},"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"100%"}} -->
