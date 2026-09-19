@@ -5,6 +5,21 @@
     const { ajaxURL, welcomeNonce, redirectURL } = ajaxObj;
 
     const $dashboard = $("#homelancer-dashboard");
+    const $tabItems = $("#homelancer-admin-header .nav-menu-item");
+    const $tabContents = $dashboard.find(".tab-content");
+
+    $tabItems.each(function () {
+      const $this = $(this);
+      const slug = $this.attr("data-tab");
+
+      $this.click(function () {
+        $tabItems.removeClass("is-active");
+        $tabContents.removeClass("is-active");
+
+        $this.addClass("is-active");
+        $dashboard.find(`#${slug}.tab-content`).addClass("is-active");
+      });
+    });
 
     /* Welcome notice script */
     $("#homelancer-welcome-notice").on(
@@ -45,10 +60,10 @@
     });
 
     /* Plugin Installation */
-    // Cozy Blocks installation
-    $(".cozy-addons-install").click(function () {
+    $(".homelancer-install-plugin").click(function () {
       const $this = $(this);
-      const $spinner = $this.find("#homelancer-admin-spinner");
+      const $spinner = $this.find(".spinner");
+      const pluginSlug = $this.attr("data-plugin-slug");
 
       $spinner.removeClass("homelancer-display-none");
       $this.addClass("homelancer-disabled");
@@ -57,7 +72,7 @@
         ajaxURL,
         {
           action: "homelancer_install_and_activate_plugins",
-          plugins: JSON.stringify(["cozy-addons"]),
+          plugins: JSON.stringify([pluginSlug]),
           nonce: welcomeNonce,
         },
         function (response) {
@@ -90,7 +105,7 @@
     });
 
     // Install Cozy Essential Addons/Advanced Import
-    $("#install-required-plugins").click(function () {
+    $(".homelancer-install-required-plugins").click(function () {
       const $this = $(this);
       const $spinner = $this.find("#homelancer-admin-spinner");
 

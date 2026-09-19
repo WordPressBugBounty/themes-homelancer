@@ -1,11 +1,11 @@
-<div class="faqs boxed-layout">
+<div id="faqs" class="section">
 	<h2 class="section-title"><?php esc_html_e( 'Frequently Asked Questions', 'homelancer' ); ?></h2>
 	<p><?php esc_html_e( 'Find quick answers about Cozy Blocks, its features, compatibility, Free vs Pro, and getting started.', 'homelancer' ); ?>
 	</p>
 	<div class="cozy-accordion">
 		<div class="accordion-item active">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Is Cozy Blocks necessary?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '1. What Is Full Site Editing (FSE)?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -15,14 +15,14 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Cozy Blocks is a powerful WordPress plugin that offers 50+ advanced Gutenberg blocks built specifically for the Full Site Editing (FSE) experience. It allows you to design complete websites visually — including post grids, WooCommerce layouts, galleries, portfolios, and more — all without using third-party page builders or custom code.', 'homelancer' ); ?>
+				<p><strong><?php esc_html_e( 'Full Site Editing (FSE)', 'homelancer' ); ?></strong><?php esc_html_e( ' is a WordPress feature that lets you design and customize your website using the Site Editor and blocks. Instead of editing only individual pages, you can customize site-wide elements such as your header, footer, navigation, templates, colors, typography, and layouts.', 'homelancer' ); ?> <strong><?php esc_html_e( 'HomeLancer is built with FSE', 'homelancer' ); ?></strong> <?php esc_html_e( 'so you can use WordPress’s native Site Editor to customize your website from top to bottom.', 'homelancer' ); ?>
 				</p>
 			</div>
 		</div>
 
 		<div class="accordion-item">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Is Cozy Blocks compatible with all WordPress themes?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '2. What’s the Difference Between a Starter Site and a Template?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -32,14 +32,14 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Cozy Blocks is only compatible with block-based (FSE) WordPress themes. It does not support classic themes or the Classic Editor. To get the full benefits of Cozy Blocks, you must use it with a modern block theme like SaasLauncher, HomeLancer, Jetnews Magazine, WoxStore, or any compatible Full Site Editing theme available on WordPress.org.', 'homelancer' ); ?>
+				<p><?php esc_html_e( 'A', 'homelancer' ); ?> <strong><?php esc_html_e( 'Starter Site', 'homelancer' ); ?></strong> <?php esc_html_e( 'is a complete, pre-designed website that you can import as the foundation for your website. A', 'homelancer' ); ?> <strong><?php esc_html_e( 'Starter Template', 'homelancer' ); ?></strong> <?php esc_htmL_e( 'is an individual website layout, such as a Homepage, Services, Service Details, About, Team, Portfolio, Contact, or Blog page, that you can use or customize within your existing website.', 'homelancer' ); ?>
 				</p>
 			</div>
 		</div>
 
 		<div class="accordion-item">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Is Cozy Blocks a replacement for Elementor or Divi?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '3. Do I Need Cozy Blocks to Use HomeLancer?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -49,14 +49,14 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Yes — for block-theme users. Cozy Blocks gives you the same design capabilities (hero sections, pricing tables, sliders, mega menus, popups, WooCommerce layouts) inside the native WordPress Block Editor, without installing a separate page builder. If your site uses a modern FSE block theme, Cozy Blocks replaces everything Elementor and Divi do, while being significantly faster and lighter.', 'homelancer' ); ?>
+				<p><?php esc_html_e( 'No, but', 'homelancer' ); ?> <strong><?php esc_html_e( 'Cozy Blocks is the recommended companion for getting more from HomeLancer.', 'homelancer' ); ?></strong> <?php esc_html_e( 'It gives you custom blocks, advanced sections, patterns, templates, and additional tools to build and customize your website beyond the theme’s core features.', 'homelancer' ); ?> <strong><?php esc_html_e( 'For HomeLancer Pro, Cozy Blocks is required because it powers the theme’s Pro features and advanced functionality.', 'homelancer' ); ?></strong>
 				</p>
 			</div>
 		</div>
 
 		<div class="accordion-item">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Building client websites as a freelancer or agency?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '4. Can I Customize My Entire Website?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -66,14 +66,14 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Import a complete homepage template for your client’s niche in one click, then customize it fully inside the Site Editor. No third-party dependencies.', 'homelancer' ); ?>
+				<p><?php esc_html_e( 'Yes. With', 'homelancer' ); ?> <strong><?php esc_html_e( 'HomeLancer and WordPress’s Site Editor', 'homelancer' ); ?></strong> <?php esc_html_e( ', you can customize your header, footer, navigation, templates, pages, colors, typography, layouts, and service content. You can create a website that reflects your brand and the services you offer.', 'homelancer' ); ?>
 				</p>
 			</div>
 		</div>
 
 		<div class="accordion-item">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Running a WooCommerce store?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '5. Is HomeLancer Free? What Does Pro Include?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -83,14 +83,14 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Product grids, category blocks, quick view, wishlist, product sliders, and add-to-cart blocks work natively without extra plugins.', 'homelancer' ); ?>
+				<p><?php esc_html_e( 'Yes.', 'homelancer' ); ?> <strong><?php esc_html_e( 'HomeLancer is available for free', 'homelancer' ); ?></strong> <?php esc_html_e( ', with its core theme features and available free Starter Sites. Pro adds advanced customization and tools for presenting your business, including additional templates, dynamic content, service-focused layouts, team and portfolio features, Popup Builder, and the complete Pro toolkit.', 'homelancer' ); ?>
 				</p>
 			</div>
 		</div>
 
 		<div class="accordion-item">
 			<div class="accordion-header">
-				<h3><?php esc_html_e( 'Publishing a blog, news site, or magazine?', 'homelancer' ); ?></h3>
+				<h3><?php esc_html_e( '6. Do You Offer a Refund or Money-Back Guarantee?', 'homelancer' ); ?></h3>
 				<i class="chevron">
 					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path
@@ -100,24 +100,7 @@
 				</i>
 			</div>
 			<div class="accordion-body">
-				<p><?php esc_html_e( 'Post grids, news tickers, trending posts, magazine-style layouts, and categorized post tabs are all included — no theme dependency.', 'homelancer' ); ?>
-				</p>
-			</div>
-		</div>
-
-		<div class="accordion-item">
-			<div class="accordion-header">
-				<h3><?php esc_html_e( 'New to WordPress?', 'homelancer' ); ?></h3>
-				<i class="chevron">
-					<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<path
-							d="M16.5706 1.74303L14.8238 6.47969e-07L8.28527 6.5336L1.74674 7.63524e-08L0 1.74797L6.53854 8.27663C7.00185 8.7398 7.63015 9 8.28527 9C8.9404 9 9.5687 8.7398 10.032 8.27663L16.5706 1.74303Z"
-							fill="currentColor" />
-					</svg>
-				</i>
-			</div>
-			<div class="accordion-body">
-				<p><?php esc_html_e( 'The 700+ ready-made patterns and 50+ homepage templates mean you can start with a professionally designed page, not a blank screen.', 'homelancer' ); ?>
+				<p><?php esc_html_e( 'Yes. We offer a', 'homelancer' ); ?> <strong><?php esc_html_e( '30-day money-back guarantee', 'homelancer' ); ?></strong> <?php esc_html_e( 'on eligible Pro purchases. If HomeLancer Pro isn\'t the right fit for you, you can request a refund within 30 days of your purchase, subject to our refund policy.', 'homelancer' ); ?>
 				</p>
 			</div>
 		</div>

@@ -33,6 +33,7 @@
 			</figure>
 			<h3 class="template-title"><?php esc_html_e('Default Pro', 'homelancer'); ?></h3>
 		</div>
+
 	</div>
 
 	<div class="homelancer-spacer md"></div>

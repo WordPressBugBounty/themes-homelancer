@@ -9,6 +9,7 @@ $homelancer_url = trailingslashit(get_template_directory_uri());
 $homelancer_images = array(
     $homelancer_url . 'assets/images/p101.jpg',
     $homelancer_url . 'assets/images/p102.jpg',
+    $homelancer_url . 'assets/images/p103.jpg',
     $homelancer_url . 'assets/images/p104.jpg',
     $homelancer_url . 'assets/images/p105.jpg',
     $homelancer_url . 'assets/images/p106.jpg',
