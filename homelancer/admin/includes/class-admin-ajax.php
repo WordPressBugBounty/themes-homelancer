@@ -74,7 +74,7 @@ class HomeLancer_Ajax {
 			}
 
 			if ( $this->is_plugin_installed( $plugin_slug . '/' . $plugin_file ) ) {
-				activate_plugin( $plugin_slug . '/' . $plugin_file, '', false, true );
+				activate_plugin( $plugin_slug . '/' . $plugin_file );
 				continue;
 			}
 
@@ -95,7 +95,7 @@ class HomeLancer_Ajax {
 
 			if ( $install ) {
 				// Activate the plugin.
-				$activate = activate_plugin( $plugin_slug . '/' . $plugin_file, '', false, true );
+				$activate = activate_plugin( $plugin_slug . '/' . $plugin_file );
 
 				// Check if activation is successful.
 				if ( is_wp_error( $activate ) ) {

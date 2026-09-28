@@ -22,31 +22,27 @@
     });
 
     /* Welcome notice script */
-    $("#homelancer-welcome-notice").on(
-      "click",
-      ".notice-dismiss",
-      function () {
-        $.ajax({
-          url: ajaxURL,
-          method: "POST",
-          data: {
-            action: "homelancer_dismissble_notice",
-            nonce: welcomeNonce,
-          },
-          success: function (response) {
-            if (response.success) {
-              console.log("Notice dismissed successfully.");
-              $("#homelancer-welcome-notice").fadeOut(); // Hide the notice
-            } else {
-              console.log("Failed to dismiss notice!");
-            }
-          },
-          error: function (jqXHR, textStatus, errorThrown) {
-            console.log("Error:", textStatus, errorThrown);
-          },
-        });
-      },
-    );
+    $("#homelancer-welcome-notice").on("click", ".notice-dismiss", function () {
+      $.ajax({
+        url: ajaxURL,
+        method: "POST",
+        data: {
+          action: "homelancer_dismissble_notice",
+          nonce: welcomeNonce,
+        },
+        success: function (response) {
+          if (response.success) {
+            console.log("Notice dismissed successfully.");
+            $("#homelancer-welcome-notice").fadeOut(); // Hide the notice
+          } else {
+            console.log("Failed to dismiss notice!");
+          }
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+          console.log("Error:", textStatus, errorThrown);
+        },
+      });
+    });
 
     // FAQ Accordion
     $dashboard.find(".accordion-header").on("click", function () {

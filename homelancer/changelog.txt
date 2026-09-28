@@ -1,3 +1,6 @@
+= 1.1.10 - September 28, 2026 =
+* Update: Plugin activation flow.
+
 = 1.1.9 - September 19, 2026 =
 * Update: Admin dashboard.
 
