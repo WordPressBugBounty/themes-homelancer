@@ -5,7 +5,7 @@ Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-me
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.1.10
+Stable tag: 1.1.11
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,10 @@ HomeLancer is a modern Full Site Editing (FSE) WordPress theme for home services
 "HomeLancer" includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.1.11 - September 30, 2026 =
+* Update: Global Style variations Update
+* More demo added for theme
+
 = 1.1.10 - September 28, 2026 =
 * Update: Plugin activation flow.
 
@@ -182,16 +186,6 @@ Copyright 2021 The Albert Sans Project Authors
 License: http://scripts.sil.org/OFL
 Source: https://github.com/usted/Albert-Sans
 
-Font: DM Sans,
-Copyright 2014 The DM Sans Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/googlefonts/dm-fonts
-
-Font: DM Serif Display,
-Copyright 2014-2018 Adobe
-License: http://scripts.sil.org/OFL
-Source:http://www.adobe.com/
-
 font: Inter,
 Copyright 2020 The Inter Project Authors
 License: http://scripts.sil.org/OFL
@@ -202,65 +196,25 @@ Copyright 2018 The Manrope Project Authors
 License: http://scripts.sil.org/OFL
 Source: https://github.com/sharanda/manrope
 
-Font: Outfit,
-Copyright 2021 The Outfit Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/Outfitio/Outfit-Fonts
-
-Font: Plus Jakarta Sans,
-Copyright 2020 The Plus Jakarta Sans Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/tokotype/PlusJakartaSans
-
-Font: Public Sans
-Copyright 2015 The Public Sans Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/uswds/public-sans
-
 Font: Quicksand,
 Copyright 2011 The Quicksand Project Authors
 License: http://scripts.sil.org/OFL
 Source: https://github.com/andrew-paglinawan/QuicksandFamily
-
-Font: Oswald,
-Copyright 2016 The Oswald Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/googlefonts/OswaldFont
-
-Font: Tenor Sans,
-Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>
-License: http://scripts.sil.org/OFL
-Source: https://github.com/google/fonts/tree/main/ofl/tenorsans
-
-Font: Funnel Sans,
-Copyright 2024 The Funnel Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/Dicotype/Funnel
 
 Font :Bricolage Grotesque
 Copyright 2022 The Bricolage Grotesque Project Authors
 License: https://openfontlicense.org
 Source:  https://github.com/ateliertriay/bricolage
 
-font: Funnel Display,
-Copyright 2024 The Funnel Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/Dicotype/Funnel
-
-font: Host Grotesk,
-Copyright 2023 The Host Grotesk Project Authors
-License: http://scripts.sil.org/OFL
-Source: https://github.com/Element-Type/HostGrotesk
-
 Font: Mona Sans,
 Copyright 2022 The Mona Sans Project Authors
 License: http://scripts.sil.org/OFL
 Source: https://github.com/github/mona-sans
 
-Font: Tenor Sans,
-Copyright (c) 2011, Denis Masharov
+Font: Space Grotesk,
+Copyright 2020 The Space Grotesk Project Authors
 License: http://scripts.sil.org/OFL
-Source: https://github.com/google/fonts/tree/main/ofl/tenorsans
+Source: https://github.com/floriankarsten/space-grotesk
 
 Animation Scripts Credit and License
 AOS - Animation on Scroll

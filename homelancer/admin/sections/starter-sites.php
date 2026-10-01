@@ -31,7 +31,13 @@
 			<figure class="template-image">
 				<img src="<?php echo esc_url(HOMELANCER_URL . 'admin/images/template-2.png'); ?>" />
 			</figure>
-			<h3 class="template-title"><?php esc_html_e('Default Pro', 'homelancer'); ?></h3>
+			<h3 class="template-title"><?php esc_html_e('Architecture', 'homelancer'); ?></h3>
+		</div>
+		<div class="template-item">
+			<figure class="template-image">
+				<img src="<?php echo esc_url(HOMELANCER_URL . 'admin/images/template-3.png'); ?>" />
+			</figure>
+			<h3 class="template-title"><?php esc_html_e('Plumbing', 'homelancer'); ?></h3>
 		</div>
 
 	</div>

@@ -7,32 +7,32 @@
       "palette": [
         {
           "slug": "primary",
-          "color": "#0F0D30",
+          "color": "#0C2415",
           "name": "Primary"
         },
         {
           "slug": "secondary",
-          "color": "#2E2BF3",
+          "color": "#9CBD0A",
           "name": "Secondary"
         },
         {
           "slug": "primary-light-shade",
-          "color": "#1D1A5B",
+          "color": "#1D3F29",
           "name": "Primary Light Shade"
         },
         {
           "slug": "dark-accent",
-          "color": "#0E0B32",
+          "color": "#2A4201",
           "name": "Dark Accent"
         },
         {
           "slug": "light-accent",
-          "color": "#272376",
+          "color": "#416209",
           "name": "Light Accent"
         },
         {
           "slug": "tertiary-accent",
-          "color": "#625CD6",
+          "color": "#DCF278",
           "name": "Tertiary Accent"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "slug": "heading-color",
-          "color": "#0F0E2A",
+          "color": "#183B26",
           "name": "Heading Color"
         },
         {
@@ -57,17 +57,17 @@
         },
         {
           "slug": "background-alt",
-          "color": "#F0F0FF",
+          "color": "#EBEEE2",
           "name": "Background Alt"
         },
         {
           "slug": "foreground",
-          "color": "#5D6769",
+          "color": "#63665B",
           "name": "Foreground"
         },
         {
           "slug": "foreground-alt",
-          "color": "#EBEBEB",
+          "color": "#DEEEE4",
           "name": "Foreground Alternative"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
           "slug": "border-color",
-          "color": "#E4E3F7",
+          "color": "#C5C7BF",
           "name": "Border Color"
         },
         {
@@ -98,32 +98,32 @@
           "name": "Mixed"
         },
         {
-          "colors": ["#0F0D30", "#ffffff"],
+          "colors": ["#0C2415", "#ffffff"],
           "slug": "primary-white",
           "name": "Primary White"
         },
         {
-          "colors": ["#ffffff", "#0F0D30"],
+          "colors": ["#ffffff", "#0C2415"],
           "slug": "white-primary",
           "name": "White Primary"
         },
         {
-          "colors": ["#2E2BF3", "#ffffff"],
+          "colors": ["#9CBD0A", "#ffffff"],
           "slug": "secondary-white",
           "name": "Secondary White"
         },
         {
-          "colors": ["#ffffff", "#2E2BF3"],
+          "colors": ["#ffffff", "#9CBD0A"],
           "slug": "white-secondary",
           "name": "White Secondary"
         },
         {
-          "colors": ["#0F0D30", "#2E2BF3"],
+          "colors": ["#0C2415", "#9CBD0A"],
           "slug": "primary-secondary",
           "name": "Primary Secondary"
         },
         {
-          "colors": ["#2E2BF3", "#0F0D30"],
+          "colors": ["#9CBD0A", "#0C2415"],
           "slug": "secondary-primary",
           "name": "Secondary Primary"
         },
@@ -150,12 +150,12 @@
       "h6": { "typography": { "fontWeight": "500" } },
       "heading": {
         "typography": {
-          "fontFamily": "var(--wp--preset--font-family--albert-sans)"
+          "fontFamily": "var(--wp--preset--font-family--bricolage-grotesque)"
         }
       }
     },
     "typography": {
-      "fontFamily": "var(--wp--preset--font-family--albert-sans)"
+      "fontFamily": "var(--wp--preset--font-family--bricolage-grotesque)"
     }
   }
 }
