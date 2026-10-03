@@ -1,3 +1,7 @@
+= 1.1.12 - Oct 03, 2026 =
+* More gradient style added for theme
+* More demo added for theme
+
 = 1.1.11 - September 30, 2026 =
 * Update: Global Style variations Update
 * More demo added for theme

@@ -16,13 +16,8 @@
 		<tbody>
 			<tr>
 				<td><?php esc_html_e('Starter Site', 'homelancer'); ?></td>
-				<td><?php esc_html_e('1', 'homelancer'); ?></td>
-				<td><?php esc_html_e('2', 'homelancer'); ?></td>
-			</tr>
-			<tr>
-				<td><?php esc_html_e('Starter Template', 'homelancer'); ?></td>
-				<td><?php esc_html_e('1', 'homelancer'); ?></td>
-				<td><?php esc_html_e('5+', 'homelancer'); ?></td>
+				<td><?php esc_html_e('4', 'homelancer'); ?></td>
+				<td><?php esc_html_e('7', 'homelancer'); ?></td>
 			</tr>
 			<tr>
 				<td><?php esc_html_e('Pre-built Inner Page Templates', 'homelancer'); ?></td>

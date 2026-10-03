@@ -39,6 +39,24 @@
 			</figure>
 			<h3 class="template-title"><?php esc_html_e('Plumbing', 'homelancer'); ?></h3>
 		</div>
+		<div class="template-item">
+			<figure class="template-image">
+				<img src="<?php echo esc_url(HOMELANCER_URL . 'admin/images/template-4.png'); ?>" />
+			</figure>
+			<h3 class="template-title"><?php esc_html_e('Gardening', 'homelancer'); ?></h3>
+		</div>
+		<div class="template-item">
+			<figure class="template-image">
+				<img src="<?php echo esc_url(HOMELANCER_URL . 'admin/images/template-5.png'); ?>" />
+			</figure>
+			<h3 class="template-title"><?php esc_html_e('Cleaing', 'homelancer'); ?></h3>
+		</div>
+		<div class="template-item">
+			<figure class="template-image">
+				<img src="<?php echo esc_url(HOMELANCER_URL . 'admin/images/template-6.png'); ?>" />
+			</figure>
+			<h3 class="template-title"><?php esc_html_e('HVAC', 'homelancer'); ?></h3>
+		</div>
 
 	</div>
 

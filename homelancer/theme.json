@@ -157,6 +157,46 @@
           "gradient": "linear-gradient(90deg, var(--wp--preset--color--dark-accent) 25.76%, rgba(0, 0, 0, 0) 100%);",
           "name": "Dark Gradient",
           "slug": "dark-gradient"
+        },
+        {
+          "gradient": "radial-gradient(107.17% 107.17% at 50% -7.17%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Center Top Gradient",
+          "slug": "center-top-gradient"
+        },
+        {
+          "gradient": "radial-gradient(74.86% 108% at 9.76% 9.73%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Top Left Gradient",
+          "slug": "top-left-gradient"
+        },
+        {
+          "gradient": "radial-gradient(73.27% 119% at 94.34% 11.32%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Top Right Gradient",
+          "slug": "top-right-gradient"
+        },
+        {
+          "gradient": "radial-gradient(87.05% 110.69% at 50% 110.69%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Bottom Center Gradient",
+          "slug": "bottom-center-gradient"
+        },
+        {
+          "gradient": "radial-gradient(96.46% 80.69% at 117.74% 45.96%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 52.49%);",
+          "name": "Right Gradient",
+          "slug": "right-gradient"
+        },
+        {
+          "gradient": "radial-gradient(60.8% 142.09% at 0% 104.61%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Bottom left Gradient",
+          "slug": "bottom-left-gradient"
+        },
+        {
+          "gradient": "radial-gradient(75.64% 147.04% at 100% 100%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Bottom right Gradient",
+          "slug": "bottom-right-gradient"
+        },
+        {
+          "gradient": "radial-gradient(65.23% 78.73% at 50% 50.06%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
+          "name": "Center Gradient",
+          "slug": "center-gradient"
         }
       ]
     },

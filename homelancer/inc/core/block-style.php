@@ -113,6 +113,13 @@ if (function_exists('register_block_style')) {
             )
         );
         register_block_style(
+            'core/group',
+            array(
+                'name'  => 'homelancer-group-floating-animate',
+                'label' => __('Floating Animate', 'homelancer')
+            )
+        );
+        register_block_style(
             'core/image',
             array(
                 'name'  => 'homelancer-boxshadow',
