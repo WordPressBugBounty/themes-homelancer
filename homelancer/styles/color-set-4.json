@@ -17,7 +17,7 @@
         },
         {
           "slug": "primary-light-shade",
-          "color": "#1D3F29",
+          "color": "#104A26",
           "name": "Primary Light Shade"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "slug": "background",
-          "color": "#FFFFFF",
+          "color": "#FAFCF4",
           "name": "Background"
         },
         {
@@ -86,7 +86,7 @@
           "name": "Border Color"
         },
         {
-          "color": "#ffffff00",
+          "color": "#0C241500",
           "name": "Transparent",
           "slug": "transparent"
         }

@@ -179,7 +179,7 @@
           "slug": "bottom-center-gradient"
         },
         {
-          "gradient": "radial-gradient(96.46% 80.69% at 117.74% 45.96%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 52.49%);",
+          "gradient": "radial-gradient(100% 105% at 121% 45.96%, var(--wp--preset--color--primary-light-shade) 28%, var(--wp--preset--color--primary) 100%)",
           "name": "Right Gradient",
           "slug": "right-gradient"
         },
@@ -197,6 +197,31 @@
           "gradient": "radial-gradient(65.23% 78.73% at 50% 50.06%, var(--wp--preset--color--light-accent) 0%, var(--wp--preset--color--primary) 48%);",
           "name": "Center Gradient",
           "slug": "center-gradient"
+        },
+        {
+          "gradient": "linear-gradient(320deg, rgba(0, 0, 0, 0) -16%, var(--wp--preset--color--primary) 75%);",
+          "name": "Right fade Gradient",
+          "slug": "right-fade-gradient"
+        },
+        {
+          "gradient": "radial-gradient(81% 167% at 81.8% 50%, var(--wp--preset--color--transparent) 0%, var(--wp--preset--color--primary) 77.83%)",
+          "name": "Left Big Gradient",
+          "slug": "left-big-gradient"
+        },
+        {
+          "gradient": "radial-gradient(123.12% 283.86% at 81.17% -146.53%, var(--wp--preset--color--transparent) 0%, var(--wp--preset--color--primary) 73.33%)",
+          "name": "Bottom Left Big Gradient",
+          "slug": "btmleft-big-gradient"
+        },
+        {
+          "gradient": "linear-gradient(180deg, var(--wp--preset--color--transparent) 0%, var(--wp--preset--color--primary) 86.19%)",
+          "name": "Bottom Full Gradient",
+          "slug": "bottom-full-gradient"
+        },
+        {
+          "gradient": "linear-gradient(180deg, var(--wp--preset--color--transparent) 40%, var(--wp--preset--color--primary) 90%)",
+          "name": "Primary Transparent Btm",
+          "slug": "primary-transparent-btm"
         }
       ]
     },
